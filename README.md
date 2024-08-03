@@ -1,8 +1,5 @@
 # Viral-Kohli-Performance-Analysis-Dashboard
 
-## Created & Analyzed by Saddam Ansari @Aspiring Data Analyst [Linkedin](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
-
-### Live Dashboard at Novypro [Live_link_Novypro](https://project.novypro.com/L3tV3C)
 
 
 ## Objective:
@@ -48,19 +45,10 @@ This analysis provides insights into the number of matches played by Virat Kohli
 
 The objective of this analysis is to depict the distribution of runs scored by Virat Kohli across different years. It reveals that the years between approximately 2016 and 2018 witnessed the highest runs scored by Kohli in a single year.
 
-
-#
-
-### How you can help me:
-I've successfully completed over 55 Power BI projects, all showcased in my [Novypro portfolio](https://www.novypro.com/profile_about/saddamansari). You're all invited to visit my portfolio and explore these amazing projects!
-
-**Additionally, I'm currently seeking internship or entry-level opportunities. If you have any opportunities available or need a freelance Power BI project completed, please connect with me on [LinkedIn](https://www.linkedin.com/in/saddam-ansari-dataanalyst/).**
-Looking forward to connecting with you all!
-
 #
 
 ### Created and Presented by-
-Saddam Ansari @Aspiring Data Analyst [LinkedIn](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
+MANAV PATEL @Aspiring Data Analyst [LinkedIn](https://www.linkedin.com/in/manav-patel-b79192312/)
 
 Location: India
 
